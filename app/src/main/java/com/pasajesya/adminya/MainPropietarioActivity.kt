@@ -170,9 +170,13 @@ class MainPropietarioActivity : AppCompatActivity() {
         binding.btnVendedores
             .setOnClickListener {
 
-                mostrarModuloPendiente(
-                    "Administración de vendedores"
-                )
+                val intent =
+                    Intent(
+                        this,
+                        CrearVendedorActivity::class.java
+                    )
+
+                startActivity(intent)
             }
 
         binding.btnVehiculos.setOnClickListener {
