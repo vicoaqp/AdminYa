@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:checkable="true"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardBackgroundColor="@color/adminya_surface"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="0dp"
+    app:strokeColor="@color/adminya_border"
+    app:strokeWidth="1dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="13dp">
+
+        <RadioButton
+            android:id="@+id/radio_vehiculo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:focusable="false"
+            android:buttonTint="@color/adminya_primary" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_marginStart="7dp"
+            app:cardBackgroundColor="#F0E7F7"
+            app:cardCornerRadius="14dp"
+            app:cardElevation="0dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="🚐"
+                android:textSize="23sp" />
+
+        </com.google.android.material.card.MaterialCardView>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_placa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="V6X-123"
+                android:textColor="@color/adminya_text_primary"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:text="V6X-123" />
+
+            <TextView
+                android:id="@+id/tv_descripcion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="Toyota Hiace · Minivan"
+                android:textColor="@color/adminya_text_secondary"
+                android:textSize="12sp"
+                tools:text="Toyota Hiace · Minivan" />
+
+            <TextView
+                android:id="@+id/tv_detalle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="15 pasajeros · Blanco"
+                android:textColor="@color/adminya_text_secondary"
+                android:textSize="11sp"
+                tools:text="15 pasajeros · Blanco" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_estado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="DISPONIBLE"
+            android:textColor="@color/adminya_success"
+            android:textSize="9sp"
+            android:textStyle="bold"
+            tools:text="ACTUAL" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

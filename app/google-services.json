@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "833843640782",
+    "firebase_url": "https://serenompc-89386-default-rtdb.firebaseio.com",
+    "project_id": "serenompc-89386",
+    "storage_bucket": "serenompc-89386.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833843640782:android:4bb3272079c129d9a2d39f",
+        "android_client_info": {
+          "package_name": "com.PasajesYa.pasajesya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfVI2aO2V1kTAmxFOcoA_A-pW9qM4aUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833843640782:android:23ffc3be3d1d5eeea2d39f",
+        "android_client_info": {
+          "package_name": "com.combi.waiky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfVI2aO2V1kTAmxFOcoA_A-pW9qM4aUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833843640782:android:3fa538affa02f2f9a2d39f",
+        "android_client_info": {
+          "package_name": "com.goldenjanosadmin.gjadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfVI2aO2V1kTAmxFOcoA_A-pW9qM4aUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833843640782:android:27b91e133c499512a2d39f",
+        "android_client_info": {
+          "package_name": "com.pasajesya.adminya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfVI2aO2V1kTAmxFOcoA_A-pW9qM4aUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833843640782:android:25b56c03fcc1b405a2d39f",
+        "android_client_info": {
+          "package_name": "com.pasajesya.choferya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfVI2aO2V1kTAmxFOcoA_A-pW9qM4aUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833843640782:android:fd285396e07ca6a4a2d39f",
+        "android_client_info": {
+          "package_name": "com.reciclaje.agenteverde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfVI2aO2V1kTAmxFOcoA_A-pW9qM4aUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833843640782:android:474a4d42315f3a25a2d39f",
+        "android_client_info": {
+          "package_name": "com.serenazgompc.agentesverdes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfVI2aO2V1kTAmxFOcoA_A-pW9qM4aUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833843640782:android:405a87a930737bfaa2d39f",
+        "android_client_info": {
+          "package_name": "com.serenazgompc.serenompc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfVI2aO2V1kTAmxFOcoA_A-pW9qM4aUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

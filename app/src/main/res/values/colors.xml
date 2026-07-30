@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="adminya_primary">#5B2C83</color>
+    <color name="adminya_primary_dark">#29123F</color>
+    <color name="adminya_secondary">#E0A800</color>
+
+    <color name="adminya_background">#F6F4F9</color>
+    <color name="adminya_surface">#FFFFFF</color>
+
+    <color name="adminya_text_primary">#231B2B</color>
+    <color name="adminya_text_secondary">#746B7D</color>
+
+    <color name="adminya_border">#E3DDE8</color>
+
+    <color name="adminya_success">#198754</color>
+    <color name="adminya_warning">#D98200</color>
+    <color name="adminya_danger">#C53B3B</color>
+
+
+</resources>
