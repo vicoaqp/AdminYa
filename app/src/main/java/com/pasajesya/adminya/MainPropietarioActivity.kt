@@ -167,17 +167,15 @@ class MainPropietarioActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        binding.btnVendedores
-            .setOnClickListener {
+        binding.btnVendedores.setOnClickListener {
 
-                val intent =
-                    Intent(
-                        this,
-                        CrearVendedorActivity::class.java
-                    )
+            val intent = Intent(
+                this,
+                AdministrarVendedoresActivity::class.java
+            )
 
-                startActivity(intent)
-            }
+            startActivity(intent)
+        }
 
         binding.btnVehiculos.setOnClickListener {
 

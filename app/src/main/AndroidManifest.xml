@@ -13,6 +13,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AdminYa">
         <activity
+            android:name=".VentaOficinaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdministrarReservasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ControlarCargaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CrearViajeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdministrarVendedoresActivity"
+            android:exported="false" />
+        <activity
             android:name=".AdministrarChoferesActivity"
             android:exported="false" />
         <activity
